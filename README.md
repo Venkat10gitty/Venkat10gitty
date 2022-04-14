@@ -11,7 +11,6 @@
 
 
 ### Languages and Tools:
-<img align="left" alt="C" width="26px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" style="padding-right:10px;" />
 <img align="left" alt="Pyhton" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />
