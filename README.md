@@ -6,8 +6,10 @@
 
 ## 🙋‍♂️ About Me
 
-    
-- 🌱 I’m currently learning Node JS and React  
+
+- 🌱 I’m currently learning Node JS and React 
+- 🥅 2022 Goals: Learn more about web3
+- 💬 Ask me about Java, C, C++, Python & HTML    
 - 📫 How to reach me: BachamVenkat@icloud.com 
 - ⚡ Fun fact: I love coding 😇 
 
