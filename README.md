@@ -11,9 +11,9 @@
 
 
 ### Languages and Tools:
-<img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" style="padding-right:10px;" />
 <img align="left" alt="Pyhton" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
