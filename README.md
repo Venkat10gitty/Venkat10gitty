@@ -33,9 +33,10 @@
 
 <a href = "https://twitter.com/imVenky10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://github.com/Venkat10gitty"><img src="https://img.icons8.com/fluent/github.png"/></a>
+<a href = "https://t.me/im_Venkat"><img src="https://img.icons8.com/color//telegram-app--v1.png"/></a>
 
 
-<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>  -->
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ## 📊 My Github Stats
 
 <a href="https://github.com/jaydeepdey03/github-readme-stats"><img alt="Jaydeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat10gitty&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
