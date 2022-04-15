@@ -1,15 +1,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Venkat</h1>
+
+![](https://raw.githubusercontent.com/adarsh-gupta101/adarsh-gupta101/main/assets/giphy.gif)
+
 <h3 align="center">A passionate Web Developer from India</h3>
+
+
+
 
 
 ![Profile views](https://gpvc.arturio.dev/venkat10gitty)
 
 ## 🙋‍♂️ About Me
 
-
-- 🌱 I’m currently learning Node JS and React 
-- 🥅 2022 Goals: Learn more about web3
-- 💬 Ask me about Java, C, C++, Python & HTML    
+    
+- 🌱 I’m currently learning Node JS and React  
 - 📫 How to reach me: BachamVenkat@icloud.com 
 - ⚡ Fun fact: I love coding 😇 
 
@@ -31,11 +35,7 @@
 <br/>
 
 
-<<<<<<< HEAD
 ##  💬 My Social Handles 
-=======
-My Social Handles:
->>>>>>> f7bc321a773d4b7d34e2fbb6a0640b00182562b9
 
 <a href = "https://twitter.com/imVenky10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://github.com/Venkat10gitty"><img src="https://img.icons8.com/fluent/github.png"/></a>
@@ -53,6 +53,6 @@ My Social Handles:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=venkat10gitty&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=venkat10gitty&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=venkat10gitty&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) 
 
 
