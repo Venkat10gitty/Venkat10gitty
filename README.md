@@ -6,8 +6,10 @@
 
 ## 🙋‍♂️ About Me
 
-    
-- 🌱 I’m currently learning Node JS and React  
+
+- 🌱 I’m currently learning Node JS and React 
+- 🥅 2022 Goals: Learn more about web3
+- 💬 Ask me about Java, C, C++, Python & HTML    
 - 📫 How to reach me: BachamVenkat@icloud.com 
 - ⚡ Fun fact: I love coding 😇 
 
@@ -29,7 +31,11 @@
 <br/>
 
 
+<<<<<<< HEAD
 ##  💬 My Social Handles 
+=======
+My Social Handles:
+>>>>>>> f7bc321a773d4b7d34e2fbb6a0640b00182562b9
 
 <a href = "https://twitter.com/imVenky10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://github.com/Venkat10gitty"><img src="https://img.icons8.com/fluent/github.png"/></a>
